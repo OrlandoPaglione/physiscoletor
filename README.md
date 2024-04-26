@@ -7,12 +7,12 @@ Este é um aplicativo Flutter que permite escanear códigos de barras, gerar eti
 Escanear Códigos de Barras: Utiliza a biblioteca barcode_scan2 para escanear códigos de barras.<br>
 Gerar e Imprimir Etiquetas: Gera etiquetas de código de barras e as imprime em uma impressora térmica Bluetooth.<br>
 Conexão Bluetooth: Conecta-se a uma impressora Bluetooth para imprimir as etiquetas.<br>
-<b>Instalação e Uso</b>
+# Instalação e Uso
 Clone este repositório.<br>
 Certifique-se de ter o Flutter e o ambiente de desenvolvimento configurados.<br>
 Execute flutter pub get para instalar as dependências necessárias.<br>
 Compile e execute o aplicativo em um dispositivo ou emulador.<br>
-Como Usar<br>
+# <b>Como Usar<br></b>
 Na tela de login, insira suas credenciais e selecione a loja desejada.<br>
 Na tela principal, clique em "Ler Código de Barras" para escanear um código de barras.<br>
 Insira o número de etiquetas desejado.<br>
