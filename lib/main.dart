@@ -307,7 +307,7 @@ class _BarcodeScannerScreenState extends State<BarcodeScannerScreen> {
   }
 
   Future<void> consumeHttpEndpoint(String code, int quantity) async {
-    final url = Uri.parse('http://209.14.68.135:8084/etiquetas');
+    final url = Uri.parse('http://12.0.0.1:8084/etiquetas');
     final body = {
       'code': code,
       'quantity': quantity.toString(),
