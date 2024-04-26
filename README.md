@@ -1,4 +1,4 @@
-# Physiscoletor
+# Physis Coletor
 
 # Aplicativo de Impressão de Etiquetas Bluetooth
 Este é um aplicativo Flutter que permite escanear códigos de barras, gerar etiquetas de código de barras e imprimi-las em uma impressora Bluetooth térmica.
